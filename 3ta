@@ -1,8 +1,0 @@
-#include<stdio.h>
-int main(void){         
-    int puti;
-    printf("Kolko puti?: ");
-    scanf("%d", &puti);
-    for(int i=0;i<puti;i++)
-    printf("neshto\n");
-}
